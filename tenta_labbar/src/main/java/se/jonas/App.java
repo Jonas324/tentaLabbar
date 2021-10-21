@@ -7,8 +7,14 @@ public final class App {
     public static void main(String[] args) {
         /* ISBN isbn = new ISBN();
         isbn.run(); */
-        Scrabble scrabble = new Scrabble();
-        scrabble.run();
+        /* HockeyPlayers scrabble = new HockeyPlayers();
+        scrabble.run(); */
+
+        /* Scrabble scrabble = new Scrabble();
+        scrabble.run(); */
+
+        Twofer twofer = new Twofer();
+        twofer.run();
         
     }
 }
