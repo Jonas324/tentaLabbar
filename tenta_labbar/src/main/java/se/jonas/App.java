@@ -13,8 +13,11 @@ public final class App {
         /* Scrabble scrabble = new Scrabble();
         scrabble.run(); */
 
-        Twofer twofer = new Twofer();
-        twofer.run();
+        /* Twofer twofer = new Twofer();
+        twofer.run(); */
+
+        Robot robot = new Robot();
+        robot.run();
         
     }
 }
