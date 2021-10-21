@@ -16,8 +16,10 @@ public final class App {
         /* Twofer twofer = new Twofer();
         twofer.run(); */
 
-        Robot robot = new Robot();
-        robot.run();
+        /* Robot robot = new Robot();
+        robot.run(); */
         
+        AI ai = new AI();
+        ai.run();
     }
 }
